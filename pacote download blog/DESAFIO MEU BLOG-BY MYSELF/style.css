@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+body {
+    position: relative;
+    background-color: rgb(226, 226, 238);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;  
+    height: 1000px;
+    color: black;
+}
+
+img {
+    float: center;
+    margin-left: 30px;
+    border: slategray solid 10px;
+
+}
+
+.img-fotos {
+    padding: 3px;
+    border: black solid 2px;
+}
+    
+
+h1 {
+    float: center;
+    font-size: 50px;
+    
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: justify;
+}
+
+footer {
+    font-family: cursive;
+    color: black;
+    text-align: end;
+    font-size: 15px;
+}
